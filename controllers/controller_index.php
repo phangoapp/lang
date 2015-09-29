@@ -7,7 +7,7 @@ use PhangoApp\PhaI18n\I18n;
 class indexController extends Controller {
 
 
-	public function index($lang)
+	public function home($lang)
 	{
 		
 		if(in_array($lang, I18n::$arr_i18n))
