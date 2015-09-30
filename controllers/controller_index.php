@@ -22,8 +22,6 @@ class indexController extends Controller {
 
 			}
 			
-			//http://localhost/phangodev/index.php/user/show/change_lang/change_language/language/en-US
-			
 			if(  preg_match('/\/lang\//', $_SERVER['HTTP_REFERER']) )
 			{
 			
