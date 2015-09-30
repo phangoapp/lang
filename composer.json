@@ -1,0 +1,12 @@
+{
+    "name": "phangoapp/lang",
+    "description": "Module for switch between languages",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Antonio de la Rosa",
+            "email": "webmaster@web-t-sys.com"
+        }
+    ],
+    "minimum-stability": "dev-master"    
+}
